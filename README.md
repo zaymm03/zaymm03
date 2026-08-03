@@ -19,6 +19,7 @@ manual work.
 ## Currently building
 
 - **[zaym-uptime-monitor](https://github.com/zaymm03/zaym-uptime-monitor)**
+  ![CI](https://github.com/zaymm03/zaym-uptime-monitor/actions/workflows/ci.yml/badge.svg)
   — a self-hosted uptime monitor for my homelab. TypeScript, scheduled checks,
   downtime alerting, and a dashboard. Runs in Docker on my own infrastructure.
 - A **homelab** running on virtualized Windows Server (Active Directory / DNS)
