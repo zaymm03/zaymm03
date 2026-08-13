@@ -31,12 +31,15 @@ manual work.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaymm03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaymm03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="stats" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaymm03&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaymm03&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=zaymm03&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ## Tech I work with
