@@ -1,5 +1,8 @@
-# Hi, I'm Zaym 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=180&section=header&text=Yazid%20Zaim%20%7C%20zaymm03&fontColor=ffffff&fontSize=45&desc=Software%20Development%20•%20IT%20•%20Automation•%20Cloud&descAlignY=65&descSize=18)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zaym+%F0%9F%91%8B;Netcentric+Computing+Graduate;Software+Development+%7C+IT+%7C+Automation;Homelab+tinkerer+%26+vibe+coder" alt="Typing SVG" />
+</p>
 Fresh Computer Science graduate (BSc Hons, Netcentric Computing — UiTM) working
 at the intersection of **infrastructure, security, and automation**. I like
 building things that keep systems running, catch problems early, and remove
@@ -24,6 +27,17 @@ manual work.
 - A **homelab** running on virtualized Windows Server (Active Directory / DNS)
   and Linux + Docker — my sandbox for practicing real infra and hosting my own
   projects.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaymm03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaymm03&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaymm03&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
 
 ## Tech I work with
 
