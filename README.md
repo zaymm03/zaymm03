@@ -58,6 +58,16 @@ manual work.
 - 💼 LinkedIn: **linkedin.com/in/mohamadyazidzaim**
 - 📧 Email: **yazidzaim03@gmail.com**
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaymm03/zaymm03/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaymm03/zaymm03/output/snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/zaymm03/zaymm03/output/snake.svg" />
+  </picture>
+</p>
+
 ---
 
 *Always learning — check my pinned repos to see what I'm working on.*
