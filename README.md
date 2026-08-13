@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=180&section=header&text=Yazid%20Zaim%20%7C%20zaymm03&fontColor=ffffff&fontSize=45&desc=Software%20Development%20•%20IT%20•%20Automation•%20Cloud&descAlignY=65&descSize=18)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=header&text=Yazid%20Zaim&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Development%20%C2%B7%20IT%20%C2%B7%20Automation%20%C2%B7%20Cloud&descAlignY=58&descSize=20" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zaym+%F0%9F%91%8B;Netcentric+Computing+Graduate;Software+Development+%7C+IT+%7C+Automation;Homelab+tinkerer+%26+vibe+coder" alt="Typing SVG" />
